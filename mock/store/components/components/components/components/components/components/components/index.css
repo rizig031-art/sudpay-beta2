@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; margin:0; padding:0; }
+.app { padding-bottom: 60px; }
+.bottom-nav { position: fixed; bottom:0; width:100%; display:flex; justify-content:space-around; background:#0f172a; color:white; padding:10px 0; }
+button { margin:5px; padding:10px 15px; border:none; background:#22c55e; color:white; border-radius:5px; cursor:pointer; }
+.modal-backdrop { position: fixed; inset:0; background: rgba(0,0,0,0.5); display:flex; justify-content:center; align-items:center; }
+.modal { background:white; padding:20px; border-radius:10px; width:90%; max-width:400px; }
